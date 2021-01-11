@@ -167,6 +167,7 @@ elif menu.lower() == 'c':
 
 ## SOAL 3
  pada soal nomer 3,Jika ingin menginput data kalian bisa memasukan hufuf "T". Gambar dibawah adalah hasil outputnya.
+ 
  ![Picture - New](pict/T.png)
  
 
